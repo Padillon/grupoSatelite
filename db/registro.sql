@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 10-02-2022 a las 22:34:01
+-- Tiempo de generación: 10-02-2022 a las 23:51:58
 -- Versión del servidor: 10.4.22-MariaDB
 -- Versión de PHP: 8.1.2
 
@@ -36,6 +36,13 @@ CREATE TABLE `alm_alumno` (
   `alm_id_grd` int(11) NOT NULL,
   `alm_observacion` varchar(300) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Volcado de datos para la tabla `alm_alumno`
+--
+
+INSERT INTO `alm_alumno` (`alm_id`, `alm_codigo`, `alm_nombre`, `alm_edad`, `alm_sexo`, `alm_id_grd`, `alm_observacion`) VALUES
+(1, '2165416', 'Carlos Padilla', 12, 'Masculino', 2, 'Ninguna');
 
 -- --------------------------------------------------------
 
@@ -125,7 +132,7 @@ ALTER TABLE `mxg_materiasxgrado`
 -- AUTO_INCREMENT de la tabla `alm_alumno`
 --
 ALTER TABLE `alm_alumno`
-  MODIFY `alm_id` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `alm_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT de la tabla `grd_grado`

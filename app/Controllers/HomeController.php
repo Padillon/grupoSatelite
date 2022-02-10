@@ -55,4 +55,10 @@ class HomeController extends Controller
          return redirect()->to(base_url() .'welcome_message');
 
      }
+
+     public function delete($id){
+        $alumnoModel = new AlumnoModel();
+        $datos = $alumnoModel->delete($id);
+        return redirect()->to(base_url() .'welcome_message');
+     }
 }

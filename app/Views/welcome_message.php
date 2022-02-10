@@ -69,13 +69,13 @@
 										<?php echo $alm['alm_sexo']; ?>
 										</td>
 										<td>
-										<?php echo $alm['alm_grd']; ?>
+										<?php echo $alm['alm_id_grd']; ?>
 										</td>
 										<td>
 										<?php echo $alm['alm_observacion']; ?>
 										</td>
 										<td>
-										    <a class="btn btn-warning" href="<?php echo base_url('/public/HomeController/getAlumno/'.$alm['alm_id']);?>"> editar</a>
+										    
 											<a class="btn btn-danger" href="<?php echo base_url('/public/HomeController/delete/'.$alm['alm_id']);?>"> eliminar</a>
 										</td>
 									</tr>
