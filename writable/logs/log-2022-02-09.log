@@ -1,0 +1,293 @@
+CRITICAL - 2022-02-09 21:45:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:53:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:53:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:55:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:55:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:55:56 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:07 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:21 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:56:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:12 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:23 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:45 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:57:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:58:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:58:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:58:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:58:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 21:58:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:01:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:06:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:06:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:06:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:06:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:06:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:07:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 22:07:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\grupoSatelite\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-02-09 15:48:40 --> Undefined property: App\Controllers\HomeController::$load
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-09 15:48:49 --> Undefined property: App\Controllers\HomeController::$load
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-09 15:48:50 --> Undefined property: App\Controllers\HomeController::$load
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-09 16:52:55 --> syntax error, unexpected double-quoted string ">Grados</a>", expecting "," or ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): view('template/header')
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-09 16:52:59 --> syntax error, unexpected double-quoted string ">Grados</a>", expecting "," or ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): view('template/header')
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-09 16:52:59 --> syntax error, unexpected double-quoted string ">Grados</a>", expecting "," or ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): view('template/header')
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-09 16:53:00 --> syntax error, unexpected double-quoted string ">Grados</a>", expecting "," or ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('template/header', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(14): view('template/header')
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-09 17:03:00 --> syntax error, unexpected variable "$this", expecting "function" or "const"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-09 17:11:34 --> syntax error, unexpected variable "$this", expecting "function" or "const"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,1197 @@
+CRITICAL - 2022-02-10 06:51:16 --> syntax error, unexpected variable "$this", expecting "function" or "const"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:01:07 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:01:08 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:01:08 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:01:08 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:02:26 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:02:27 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:02:32 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:02:44 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:07:02 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController...')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController...')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:07:57 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:07:59 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:31 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:31 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:32 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:32 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:32 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:08:32 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:09:44 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:09:45 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:09:45 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:09:45 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:45 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:47 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:47 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:47 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:48 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:11:48 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:14:37 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:14:42 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:15:47 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController...')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController...')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:16:40 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:16:43 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:16:58 --> syntax error, unexpected variable "$gradoModel"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:18:27 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:18:33 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\grupoSatelite\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('GradoController')
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('GradoController')
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:26:17 --> syntax error, unexpected end of file
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('gradoView', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(14): view('gradoView', Array)
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->index()
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 07:30:07 --> Undefined property: App\Controllers\GradoController::$input
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:31:21 --> Undefined property: App\Controllers\GradoController::$input
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 20)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:33:21 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(26): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:38:06 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(33): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:41:35 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(32): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:44:09 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(32): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:46:17 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(32): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:46:54 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(32): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 07:48:19 --> Array to string conversion
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(32): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 32)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:49:01 --> Array to string conversion
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:52:03 --> Array to string conversion
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:52:12 --> Array to string conversion
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:53:07 --> Array to string conversion
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 33)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 07:55:08 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\GradoModel.php(22): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(34): App\Models\GradoModel->saveGrados(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 08:11:28 --> Undefined variable $cat
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\gradoView.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('gradoView', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(25): view('gradoView', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->index()
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:11:46 --> Undefined variable $cat
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\gradoView.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('gradoView', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(25): view('gradoView', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->index()
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:40:07 --> Undefined variable $grd
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:40:34 --> Undefined variable $grd
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:40:42 --> Undefined array key "grd_nombre"
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:41:21 --> Undefined array key 1
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:42:53 --> Undefined array key 1
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:44:08 --> Undefined array key 1
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:44:08 --> Undefined array key 1
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:44:24 --> Undefined array key "grd_nombre"
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 08:50:36 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 08:51:38 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 08:52:04 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:11:23 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:12:03 --> Attempt to read property "grd_nombre" on array
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:12:23 --> Cannot use [] for reading
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-02-10 10:13:12 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:14:14 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:14:15 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:14:16 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:14:16 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:15:32 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 13)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:04 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:05 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:05 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:06 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:06 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:06 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:07 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:08 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:08 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:09 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:09 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:09 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:10 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:10 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:18:10 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:21:53 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:22:15 --> Attempt to read property "grd_nombre" on string
+#0 C:\xampp\htdocs\grupoSatelite\app\Views\grado\edit.php(14): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 14)
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#4 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#7 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-10 10:22:52 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 10:22:58 --> syntax error, unexpected token ";"
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-10 10:23:11 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:25:13 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:25:13 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:25:13 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:25:14 --> Cannot access offset of type string on string
+#0 C:\xampp\htdocs\grupoSatelite\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\grupoSatelite\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\grupoSatelite\system\Common.php(1089): CodeIgniter\View\View->render('/grado/edit', Array, true)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\GradoController.php(49): view('/grado/edit', Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\GradoController->getGrado('1')
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GradoController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 10:50:05 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:51:49 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:51:53 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:51:53 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:51:53 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:52:12 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 10:53:10 --> Class "App\Models\MateriaModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\MateriaController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MateriaController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 11:39:24 --> Class "App\Models\AlumnoModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 11:39:34 --> Class "App\Models\AlumnoModel" not found
+#0 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-10 11:39:36 --> Call to undefined method App\Models\AlumnoModel::getMaterias
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(20): CodeIgniter\Model->__call('getMaterias', Array)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 11:40:05 --> Call to undefined method App\Models\AlumnoModel::getMaterias
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(20): CodeIgniter\Model->__call('getMaterias', Array)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 11:57:27 --> Undefined variable $alumnoModel
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 21)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 11:57:55 --> Call to undefined method App\Models\GradoModel::getAlumnos
+#0 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(21): CodeIgniter\Model->__call('getAlumnos', Array)
+#1 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->index()
+#2 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#3 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-10 12:22:48 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:24:24 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:24:53 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:25:50 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:28:15 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:29:00 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:29:02 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(51): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:29:26 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:29:30 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:30:10 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:30:14 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:31:50 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:35:17 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:37:40 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:37:44 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:38:35 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:38:42 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:38:45 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:39:26 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:40:47 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:41:04 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 12:46:49 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 15:25:41 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 15:26:09 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-10 15:26:52 --> There is no data to insert.
+#0 C:\xampp\htdocs\grupoSatelite\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\grupoSatelite\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, true)
+#2 C:\xampp\htdocs\grupoSatelite\app\Models\AlumnoModel.php(27): CodeIgniter\Model->insert(Array)
+#3 C:\xampp\htdocs\grupoSatelite\app\Controllers\HomeController.php(53): App\Models\AlumnoModel->saveAlumnos(Array)
+#4 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(825): App\Controllers\HomeController->guardar()
+#5 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HomeController))
+#6 C:\xampp\htdocs\grupoSatelite\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\grupoSatelite\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
